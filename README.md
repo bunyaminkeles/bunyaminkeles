@@ -7,5 +7,5 @@
 - 😄 Attention to detail and excellent organizational skills. 
 - ✨ Believes in the importance of learning new things every day. . 
 - ✨ A lifelong learner to motivated to learn, grow and excel in IT industry.
-- 📫 Please feel free to disturb anytime: emrhn1031@gmail.com
+- 📫 Please feel free to disturb anytime: bkeles74@gmail.com
 
