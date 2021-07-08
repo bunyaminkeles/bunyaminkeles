@@ -1,4 +1,4 @@
-## Hi there. I'm Suleyman...👋
+## Hi there. I'm Bunyamin...👋
 
 
 - 🔭 I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
