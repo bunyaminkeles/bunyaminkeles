@@ -12,7 +12,6 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:bkeles74@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@bunyaminkeles)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynulsuleyman" alt="zeynulsuleyman" /> </p>
 
 
 ## 💻 Data Visualization 
