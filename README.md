@@ -1,8 +1,8 @@
 ## Hi there. I'm Bunyamin...👋
 
 
-- 🔭 I’m currently working on Data Visualization Tools (Matplotlib | Seaborn | Pandas's Own Visualization Features)
-- 🌱 I’m currently learning data visualization tools (Matplotlib | Seaborn)
+- 🔭 I’m currently working on Machine Learning and Deep Learning Algorithms.
+- 🌱 I’m currently also learning Natural language processing.
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
