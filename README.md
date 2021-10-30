@@ -16,6 +16,8 @@
 ## 💻 Artificial Intelligence (Machine Learning, Deep Learning, Natural Language Processing)
 
 <a href="#" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Machine Learning" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://pbs.twimg.com/media/FC2hnRcWUAId14w?format=png&name=360x360" alt="Machine Learning" height="60"/> </a>
+
 
 
 ## 💻 Data Visualization 
