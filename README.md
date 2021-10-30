@@ -18,6 +18,9 @@
 <a href="#" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Machine Learning" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://pbs.twimg.com/media/FC2hnRcWUAId14w?format=png&name=360x360" alt="Machine Learning" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1600/1*Gh5PS4R_A5drl5ebd_gNrg@2x.png" alt="Machine Learning" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn-images-1.medium.com/max/2000/1*LhtlF2pw9ApVQm2L2Vf8yQ.png" alt="Machine Learning" height="60"/> </a>
+
+
 
 
 
