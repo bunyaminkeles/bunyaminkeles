@@ -13,7 +13,9 @@
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@bunyaminkeles)
 [![website](https://img.shields.io/badge/%20-Kaggle-cyan?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/bunyaminkeles)
 
+## 💻 Artificial Intelligence (Machine Learning, Deep Learning, Natural Language Processing)
 
+<a href="#" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Machine Learning" height="60"/> </a>
 
 
 ## 💻 Data Visualization 
