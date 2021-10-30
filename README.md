@@ -11,7 +11,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bunyamin-keles/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:bkeles74@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@bunyaminkeles)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/bunyaminkeles)
+[![website](https://img.shields.io/badge/%20-Kaggle-cyan?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/bunyaminkeles)
 
 
 
